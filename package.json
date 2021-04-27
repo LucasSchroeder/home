@@ -5,9 +5,9 @@
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Lucas Schroeder",
+    "email": "lucasschroederusa@gmail.com",
+    "url": "https://github.com/LucasSchroeder"
   },
   "dependencies": {
     "axios": "^0.19.2",
@@ -20,6 +20,7 @@
     "react-bootstrap": "^1.4.0",
     "react-dom": "^16.14.0",
     "react-loading-skeleton": "^2.1.1",
+    "react-photo-gallery": "^8.0.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.4",
