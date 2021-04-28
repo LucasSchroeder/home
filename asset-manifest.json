@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/home/static/js/main.dbf4e6d9.chunk.js",
-    "main.js.map": "/home/static/js/main.dbf4e6d9.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.19e99e5d.chunk.js": "/home/static/js/2.19e99e5d.chunk.js",
-    "static/js/2.19e99e5d.chunk.js.map": "/home/static/js/2.19e99e5d.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.1348c33b93f183737dd40179139f2ecf.js": "/home/precache-manifest.1348c33b93f183737dd40179139f2ecf.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.f5497eb8.chunk.css.map": "/home/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/home/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/static/css/main.40ae5499.chunk.css",
+    "main.js": "/static/js/main.3b399863.chunk.js",
+    "main.js.map": "/static/js/main.3b399863.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.8725c2aa.chunk.js": "/static/js/2.8725c2aa.chunk.js",
+    "static/js/2.8725c2aa.chunk.js.map": "/static/js/2.8725c2aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8c2d39ba986ac94a34a247a3f621a831.js": "/precache-manifest.8c2d39ba986ac94a34a247a3f621a831.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.40ae5499.chunk.css.map": "/static/css/main.40ae5499.chunk.css.map",
+    "static/js/2.8725c2aa.chunk.js.LICENSE.txt": "/static/js/2.8725c2aa.chunk.js.LICENSE.txt",
+    "static/media/edlight.png": "/static/media/edlight.ee030c0f.png",
+    "static/media/liberty.jpg": "/static/media/liberty.b344b0cf.jpg",
+    "static/media/lucas.jpg": "/static/media/lucas.b6d06525.jpg",
+    "static/media/resume.pdf": "/static/media/resume.e8ae30a1.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
-    "static/js/2.19e99e5d.chunk.js",
-    "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.dbf4e6d9.chunk.js"
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.8725c2aa.chunk.js",
+    "static/css/main.40ae5499.chunk.css",
+    "static/js/main.3b399863.chunk.js"
   ]
 }
