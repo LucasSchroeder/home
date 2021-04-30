@@ -3,9 +3,14 @@ const navBar = {
   show: true,
 };
 
-const media = {
+const photography = {
   show: true,
   mediaHeading: "Photography",
+}
+
+const films = {
+  show: true,
+  mediaHeading: "Films",
 }
 
 // Main Body SECTION
@@ -65,7 +70,7 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: true,
+  show: false,
   heading: "Recent Projects",
   gitHubUsername: "LucasSchroeder", //i.e."johnDoe12Gh"
   reposLength: 4,
@@ -126,7 +131,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "If you have any questions or just want to say hi, feel free to email me at",
   email: "lucas_schroeder@brown.edu",
 };
 
@@ -144,6 +149,16 @@ const experiences = {
       companylogo: require('../assets/img/edlight.png'),
       date: 'May 2020 – Present',
     },
+    {
+      role: 'Student Journalist',
+      companylogo: require('../assets/img/polyu.png'),
+      date: 'May 2019 – August 2019',
+    },
+    {
+      role: 'Operations Intern',
+      companylogo: require('../assets/img/year-up.jpg'),
+      date: 'January 2019 – January 2019',
+    },
   ]
 }
 
@@ -152,4 +167,4 @@ const experiences = {
 //   show: true,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, media };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, photography, films };

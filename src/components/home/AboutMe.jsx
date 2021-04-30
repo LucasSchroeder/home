@@ -1,6 +1,4 @@
 import React from "react";
-import Pdf from "../../editable-stuff/resume.pdf";
-
 import axios from "axios";
 
 const pictureLinkRegex = new RegExp(
@@ -17,7 +15,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
     } else {
       setProfilePicUrl(link);
     }
-  }, [link]);
+  }, [link]);// eslint-disable-line react-hooks/exhaustive-deps
 
   const handleRequest = async () => {
     const instaLink = "https://www.instagram.com/";
